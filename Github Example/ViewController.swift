@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         print("Do something")
         
     }
+    @IBAction func PlayGame(_ sender: UIButton) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
