@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     @IBAction func Button(_ sender: UIButton) {
         
-        print("Do something")
+        print("Do something, the game should have started by now.")
         
     }
     @IBAction func PlayGame(_ sender: UIButton) {
