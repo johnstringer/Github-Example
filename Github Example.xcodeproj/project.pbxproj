@@ -49,6 +49,7 @@
 		0445534025B923150067D64D /* Github ExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Github ExampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0445534425B923150067D64D /* Github_ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Github_ExampleUITests.swift; sourceTree = "<group>"; };
 		0445534625B923150067D64D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0445535725B93A4B0067D64D /* WinterPoppins.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = WinterPoppins.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		0445531625B923150067D64D = {
 			isa = PBXGroup;
 			children = (
+				0445535625B93A320067D64D /* Fonts */,
 				0445532125B923150067D64D /* Github Example */,
 				0445533825B923150067D64D /* Github ExampleTests */,
 				0445534325B923150067D64D /* Github ExampleUITests */,
@@ -126,6 +128,14 @@
 				0445534625B923150067D64D /* Info.plist */,
 			);
 			path = "Github ExampleUITests";
+			sourceTree = "<group>";
+		};
+		0445535625B93A320067D64D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0445535725B93A4B0067D64D /* WinterPoppins.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
